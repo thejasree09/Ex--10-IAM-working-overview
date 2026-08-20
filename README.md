@@ -1,6 +1,6 @@
 # Ex: 10 - IAM-working-overview
-### NAME: Rhudhra phriyamvadha K S
-### REG NO: 212224040275
+### NAME: THEJA SREE G
+### REG NO:212224110056
 ## Aim
 To explore and configure AWS Identity and Access Management (IAM) users, groups, and policies, and to verify permissions for accessing Amazon S3 and Amazon EC2 resources.
 ## Procedure
