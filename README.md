@@ -1,6 +1,6 @@
 # Ex: 10 - IAM-working-overview
 ### NAME: THEJA SREE G
-### REG NO:212224110056
+### REG NO: 212224110056
 ## Aim
 To explore and configure AWS Identity and Access Management (IAM) users, groups, and policies, and to verify permissions for accessing Amazon S3 and Amazon EC2 resources.
 ## Procedure
@@ -19,11 +19,16 @@ To explore and configure AWS Identity and Access Management (IAM) users, groups,
 9. Submit the lab and check the **Grades/Submission Report**.
 10. End the lab after completing all tasks.
 ## Output
-<img width="1920" height="1200" alt="Screenshot (159)" src="https://github.com/user-attachments/assets/f09651ee-47c9-4628-a2df-e43f5e443453" />
-<img width="1920" height="1200" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/1a580c97-a155-4b70-924a-5bfd9d595fd5" />
-<img width="1920" height="1200" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/6bb18d1a-5e8c-4480-b7a8-88b59fc24e70" />
-<img width="1920" height="1200" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/0ed1c357-eccc-4236-8419-aab66fef3db6" />
-<img width="1920" height="1200" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/bdba6b2f-2262-401d-a309-c252c3df4635" />
+<img width="1682" height="869" alt="image" src="https://github.com/user-attachments/assets/56d2ce19-6b57-4e9b-a1ba-70159d0e56f0" />
+
+<img width="1686" height="860" alt="image" src="https://github.com/user-attachments/assets/d79a96b3-e753-4471-b403-bccd627c6237" />
+
+<img width="1685" height="855" alt="image" src="https://github.com/user-attachments/assets/d9f4d103-a164-4162-bf72-099edc259446" />
+
+<img width="1583" height="848" alt="image" src="https://github.com/user-attachments/assets/45e3b8db-889a-49a5-a5fc-bf04e51613ac" />
+
+<img width="1583" height="807" alt="image" src="https://github.com/user-attachments/assets/91145241-a581-4f1d-b850-bd33d0a73c9c" />
+
 <img width="1920" height="1200" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/a20b361e-0401-4ed9-888a-34477adbf6e3" />
 
 ## Result
